@@ -102,7 +102,7 @@ import { css } from "styled-components/macro"; //eslint-disable-line
 // import PrivacyPolicyPage from "pages/PrivacyPolicy.js";
 
 import ComponentRenderer from "ComponentRenderer.js";
-import MainLandingPage from "MainLandingPage.js";
+// import MainLandingPage from "MainLandingPage.js";
 import LandingPage from "LandingPage.js";
 
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
