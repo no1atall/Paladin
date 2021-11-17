@@ -19,7 +19,7 @@ export default () => {
         <Hero />
         <ProfileCard />
         <Schedule />
-        <Pricing />
+        {/* <Pricing /> */}
         <GetStarted />
         <Footer />
       </Container>
